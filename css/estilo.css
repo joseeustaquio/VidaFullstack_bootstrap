@@ -1,5 +1,5 @@
-container.grid {
-    background: aquamarine;
-    border: 1px solid gray;
+div.grid {
+    background: #ffd1c2;
+    border: 1px solid #f16234;
     height: 50px;
 }
